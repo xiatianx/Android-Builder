@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "dm3q-KernelSU",
       "repo": "https://github.com/fei-ke/android_kernel_samsung_sm8550",
-      "branch": "custom",
+      "branch": "gki",
       "device": "dm3q",
       "defconfig": "kalama_gki_defconfig"
     },
